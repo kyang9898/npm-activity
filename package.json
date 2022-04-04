@@ -8,8 +8,5 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "moment": "^2.29.2"
-  }
+  "license": "ISC"
 }
